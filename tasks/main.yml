@@ -2,4 +2,4 @@
   - name: Install vim
     apt:
       name: vim
-      state: installed
+      state: present
