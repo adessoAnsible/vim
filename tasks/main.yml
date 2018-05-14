@@ -1,5 +1,5 @@
 ---
   - name: Install vim
     apt:
-    - name: vim
+      name: vim
       state: installed
